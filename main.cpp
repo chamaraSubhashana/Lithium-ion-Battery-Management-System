@@ -10,8 +10,8 @@ WiFiClient client; //for wifi connection bitween server
 
 int counter  = 0;
 
-#define WIFI_NETWORK "Malinda 4G"
-#define WIFI_PASSWOR "voiceguide"
+#define WIFI_NETWORK "abcdefg"
+#define WIFI_PASSWOR "12345"
 #define WIFI_TIMEOUT_MS 20000
 
 void IRAM_ATTR onTimer(); //timer interrupt rutean
